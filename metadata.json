@@ -1,0 +1,8 @@
+{
+  "name": "InkGenius AI Tattoo Studio",
+  "description": "Professional AI-powered tattoo design with real-time collaboration, stencil conversion, and body placement preview. Create, edit, and share tattoo designs with AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
